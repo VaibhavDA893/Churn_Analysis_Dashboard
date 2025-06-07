@@ -1,7 +1,5 @@
 📊 Customer Churn Analysis Dashboard using Power BI
 
-[Dashboard Screenshot](https://github.com/VaibhavDA893/assests/blob/main/Customer%20Churn%20Dashboard.png)
-
  📝 Overview
 
 Customer churn — when a customer stops doing business with a company — is a critical metric for any subscription-based or customer-focused organization. This Customer Churn Analysis Dashboard built in Power BI provides an interactive and visual insight into customer behaviors, helping businesses identify at-risk customers and improve retention strategies.
@@ -52,7 +50,7 @@ CSV Dataset – Telecom customer churn dataset used for the analysis
 The dashboard is interactive and allows users to filter data by various dimensions.
 Click the image below to view the full-sized dashboard:
 
-[Customer Churn Dashboard](https://github.com/VaibhavDA893/assests/blob/main/Customer%20Churn%20Dashboard.png)
+
 
 
 
